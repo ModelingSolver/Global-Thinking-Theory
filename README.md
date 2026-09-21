@@ -64,5 +64,6 @@ Point of caution already identified: block 5 is currently more of an **open dire
 - Identified risk to watch: do not let BTM (the implementation) become a proof of GTT (the theory) through drift — "it works" and "it is a true theory of cognition" are two distinct criteria that must be kept separate.
  
  ## Status Update (September 2026):
-Blocked due to hardware limitations. I'm hunting for ways to fund the project between bug reporting, security bug bounties, and hackathons...
+Blocked due to hardware limitations (need a new machine). 
+I'm hunting for ways to fund the project between bug reporting, security bug bounties, and hackathons...
 I'll be back soon! ;D
