@@ -1,63 +1,68 @@
 # GTT — Global Thinking Theory
-### Synthèse de travail — juillet 2026
+
+### Working synthesis — July 2026
 
 ---
 
-## Point de départ : pourquoi pas GWT tel quel
+## Starting point: why not GWT as-is
 
-GWT (Baars/Dehaene) part directement d'un mécanisme (compétition → ignition → broadcast) sans jamais poser de critères objectifs de ce qu'est la conscience — contrairement à des domaines comme la biologie où "la vie" a des briques identifiables (autonomie, reproduction, évolution) même sans définition stricte. GTT part de l'exigence inverse : **extraire des briques vérifiables de l'extérieur avant de statuer sur le mécanisme**, et accepter explicitement qu'on ne sait pas *où* se situe la conscience — seulement ce qu'un système candidat doit présenter.
-
----
-
-## Les briques (état actuel, 5)
-
-### 1. Architecture modulaire
-Le système n'est pas un bloc monolithique — il est composé de sous-systèmes spécialisés distincts (attention, mémoire, action) qui communiquent entre eux. Consensuel à travers toutes les théories (GWT, PP, RPT), même quand elles divergent sur le *comment* de la communication.
-
-### 2. Métacognition
-Le système a une représentation de son propre traitement, pas seulement du monde extérieur — capacité à évaluer, monitorer, ajuster ses propres processus. C'est la brique que Graziano (AST) place au centre : la conscience comme sous-produit d'auto-modélisation, pas comme mécanisme de sélection en soi.
-
-### 3. Priorisation dynamique
-Mécanisme continu (pas nécessairement une compétition winner-take-all) qui hiérarchise ce qui mérite traitement/ressource maintenant. Explicitement **pas** de la compétition façon GWT — plus proche d'un gradient continu (variance, precision-weighting façon Friston) que d'un switch binaire.
-
-### 4. Continuité temporelle / mémoire
-Le système maintient un fil entre l'état actuel et les états passés — sans ça, pas de narrativité, pas de mémoire de travail exploitable. Distincte de la brique 3 : la priorisation opère à l'instant t, la continuité opère à travers le temps.
-
-### 5. Plasticité continue (la brique différenciante)
-Le système peut modifier sa propre structure **pendant qu'il opère**, pas seulement dans une phase d'entraînement séparée et gelée ensuite. C'est le point de divergence le plus net avec l'architecture LLM classique (poids figés à l'inférence) — et potentiellement la brique la plus originale de GTT par rapport à la littérature existante, qui n'en fait généralement pas un critère explicite de la conscience.
+GWT (Baars/Dehaene) starts directly from a mechanism (competition → ignition → broadcast) without ever laying down objective criteria for what consciousness is — unlike fields such as biology, where "life" has identifiable building blocks (autonomy, reproduction, evolution) even without a strict definition. GTT starts from the opposite requirement: **extract externally verifiable building blocks before ruling on the mechanism**, and explicitly accept that we don't know *where* consciousness sits — only what a candidate system must exhibit.
 
 ---
 
-## Mécanisme central
+## The building blocks (current state, 5)
 
-Explicitement **pas la compétition** façon GWT. Un mix des quatre premières briques opérant en parallèle, avec une modulation continue plutôt que des événements discrets de sélection/diffusion. Encore flou à ce stade — c'est le point le moins formalisé de GTT actuellement, à préciser.
+### 1. Modular architecture
+The system is not a monolithic block — it is composed of distinct, specialized subsystems (attention, memory, action) that communicate with each other. Consensual across all theories (GWT, PP, RPT), even when they diverge on *how* the communication works.
+
+### 2. Metacognition
+The system has a representation of its own processing, not only of the external world — the ability to evaluate, monitor, and adjust its own processes. This is the block Graziano (AST) places at the center: consciousness as a by-product of self-modeling, not as a selection mechanism in itself.
+
+### 3. Dynamic prioritization
+A continuous mechanism (not necessarily winner-take-all competition) that ranks what deserves processing/resources right now. Explicitly **not** GWT-style competition — closer to a continuous gradient (variance, Friston-style precision-weighting) than to a binary switch.
+
+### 4. Temporal continuity / memory
+The system maintains a thread between the current state and past states — without it, no narrativity, no usable working memory. Distinct from block 3: prioritization operates at instant t, continuity operates across time.
+
+### 5. Continuous plasticity (the differentiating block)
+The system can modify its own structure **while it operates**, not only in a separate training phase that is then frozen. This is the sharpest point of divergence from classical LLM architecture (weights frozen at inference) — and potentially GTT's most original block relative to the existing literature, which generally does not make it an explicit criterion of consciousness.
 
 ---
 
-## Ce que GTT cherche à faire (et ce qu'elle ne cherche pas à faire)
+## Core mechanism
 
-GTT n'a **pas** pour objectif d'expliquer pourquoi un système produirait du ressenti (le hard problem reste explicitement ouvert, non résolu, non contourné par un tour de passe-passe du type "le ressenti est juste encore une loop"). 
-
-L'objectif est **fonctionnel et opérationnel** : servir de socle conceptuel à la construction d'un exocortex utile — un système cognitif augmentatif réel, pas une preuve de conscience artificielle. Les 5 briques sont des critères d'ingénierie autant que des critères théoriques : un système qui les présente toutes est un système cognitivement plus riche et plus utile, indépendamment de la question de savoir s'il "ressent" quoi que ce soit.
+Explicitly **not competition** in the GWT sense. A mix of the first four blocks operating in parallel, with continuous modulation rather than discrete selection/broadcast events. Still fuzzy at this stage — this is the least formalized point of GTT at present, and needs to be specified.
 
 ---
 
-## Ancrage dans l'existant (BTM / OMEGA / C3)
+## What GTT aims to do (and what it does not)
 
-| Brique | Composant BTM/OMEGA correspondant |
+GTT does **not** aim to explain why a system would produce felt experience (the hard problem remains explicitly open — neither solved nor bypassed by a sleight of hand of the "feeling is just another loop" kind).
+
+The goal is **functional and operational**: to serve as the conceptual foundation for building a useful exocortex — a real augmentative cognitive system, not a proof of artificial consciousness. The 5 blocks are engineering criteria as much as theoretical ones: a system that exhibits all of them is a cognitively richer and more useful system, regardless of whether it "feels" anything.
+
+---
+
+## Grounding in the existing work (BTM / OMEGA / C3)
+
+| Block | Corresponding BTM/OMEGA component |
 |---|---|
-| 1. Modularité | Architecture globale BTM (boucles séparées : attentionnelle, convergence, sédimentation, métacognition) |
-| 2. Métacognition | Boucle Métacognition System 3 (Monitor + Tuner, ajustement des seuils) |
-| 3. Priorisation dynamique | C3 Cube — variance basse/haute → Mode Direct/Délibératif |
-| 4. Continuité | Mémoire organique CT/MT/LT, heat scoring |
-| 5. Plasticité continue | HyperNeurones sans backprop — capacité théorique à évoluer en continu, contrairement au LLM figé post-training utilisé pour la formulation |
+| 1. Modularity | Overall BTM architecture (separate loops: attentional, convergence, sedimentation, metacognition) |
+| 2. Metacognition | Metacognition System 3 loop (Monitor + Tuner, threshold adjustment) |
+| 3. Dynamic prioritization | C3 Cube — low/high variance → Direct/Deliberative Mode |
+| 4. Continuity | Organic memory ST/MT/LT, heat scoring |
+| 5. Continuous plasticity | Backprop-free HyperNeurons — theoretical capacity to evolve continuously, unlike the LLM frozen after training that is used for formulation |
 
-Point de vigilance déjà identifié : la brique 5 est actuellement plus une **direction ouverte qu'une réalisation** dans l'archi actuelle — le LLM de formulation (Mistral) reste figé, seul le C3/HyperNeurone a le potentiel de plasticité continue. À vérifier si ce potentiel est effectivement exploité ou juste latent dans l'implémentation actuelle.
+Point of caution already identified: block 5 is currently more of an **open direction than an achievement** in the present architecture — the formulation LLM (Mistral) remains frozen; only the C3/HyperNeuron has the potential for continuous plasticity. It remains to be verified whether this potential is actually exploited or merely latent in the current implementation.
 
 ---
 
-## Ce qui reste non résolu (assumé comme tel)
+## What remains unresolved (acknowledged as such)
 
-- Le mécanisme central de la brique 3 (priorisation) est nommé mais pas formalisé — "plus subtil qu'une compétition" reste à date une intuition, pas un modèle.
-- Le ressenti n'est délibérément pas traité comme une 6ème brique ni logé dans une des 5 — laissé ouvert plutôt que refermé prématurément.
-- Risque identifié et à surveiller : ne pas laisser BTM (l'implémentation) devenir une preuve de GTT (la théorie) par glissement — "ça marche" et "c'est une théorie vraie de la cognition" sont deux critères distincts qu'il faut garder séparés.
+- The core mechanism of block 3 (prioritization) is named but not formalized — "subtler than a competition" remains, to date, an intuition, not a model.
+- Felt experience is deliberately not treated as a 6th block nor housed within any of the 5 — left open rather than prematurely closed.
+- Identified risk to watch: do not let BTM (the implementation) become a proof of GTT (the theory) through drift — "it works" and "it is a true theory of cognition" are two distinct criteria that must be kept separate.
+ 
+ ## Status Update (September 2026):
+Blocked due to hardware limitations. I'm hunting for ways to fund the project between bug reporting, security bug bounties, and hackathons...
+I'll be back soon! ;D
